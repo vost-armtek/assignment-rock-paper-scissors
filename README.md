@@ -7,13 +7,13 @@ We want you to create an app that:
 1. Show a leaderboard
 1. Show that the computer didn't cheat.
 
-
 ## The goal is one
 
 **Show us what you've got!**
 
 There is no rush, better to spend more time writing how to run your code than letting us figure it out ourselves.
 
+Don't send us existing code from internet, there no value on that.
 
 ## The constraints are simple
 
